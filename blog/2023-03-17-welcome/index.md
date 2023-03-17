@@ -4,8 +4,8 @@ title: Welcome
 authors: [caijiaer]
 tags: [欢迎]
 ---
-*只是一个例子页面*
-这里可以放一些大家写的关于书院的会议一类  
+*只是一个例子页面*  
+这里可以放一些大家写的关于书院的回忆一类  
 当然不想要的话也可以删除掉这个功能
 
 Simply add Markdown files (or folders) to the `blog` directory.
